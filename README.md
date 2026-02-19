@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Beshoy Fady</h1>
-<h3 align="center">Junior Laravel Backend Developer from Egypt 🇪🇬</h3>
+<h3 align="center">Laravel Backend Developer from Egypt 🇪🇬</h3>
 
 <p align="center">
   Passionate about Backend Development, Laravel, APIs, and building scalable web applications.
@@ -10,7 +10,7 @@
 ## 🚀 About Me
 
 - 🎓 Student at Faculty of Computers and Artificial Intelligence, Beni Suef University  
-- 💻 Junior Backend Developer specialized in **PHP & Laravel**  
+- 💻 Backend Developer specialized in **PHP & Laravel**  
 - 🔥 Experienced in building **Authentication Systems, RESTful APIs, CRUD Applications**  
 - ⚡ Strong hands-on experience with **Laravel modern features**  
 - 🌱 Currently improving my skills in **Advanced Laravel & Backend Architecture**  
